@@ -5,7 +5,6 @@ Korean Astronomy and Space Science Institute (KASI) research, Deep Learning
 태양풍 중이온 예측을 위한 딥러닝 모델 개발
 
 (Prediction of Heavy Ion Charge State Ratios and Elemental Composition of Solar Wind Using Deep Learning)
----
 
 본 저장소는 2025년 6월~8월 한국천문연구원(KASI) 인턴십 기간 동안 수행한 연구 프로젝트에 이어서, 
 현재 본 연구(논문)는 **학술지 제출을 준비 중(in preparation for submission)**에 있습니다.
