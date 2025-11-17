@@ -3,9 +3,9 @@ Korean Astronomy and Space Science Institute (KASI) research, Deep Learning
 
 (Prediction of Heavy Ion Charge State Ratios and Elemental Composition of Solar Wind Using Deep Learning)
 
-Following the research project carried out during the internship period at the Korea Astronomy and Space Science Institute (KASI) from June to August 2025, 
+Following the research project carried out during the internship period at the Korea Astronomy and Space Science Institute (KASI) 
 
-this research paper is currently in **preparation for submission**. 
+from June to August 2025, this research paper is currently in **preparation for submission**. 
 
 The Korean Society of Space Science (KASI) announced the first results of the research process, and the research data, analysis, and all processes are being studied through continuous experiments.
 
