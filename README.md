@@ -15,4 +15,4 @@ After pre-processing, I posted the code that generates data for analysis and the
 
 If you are interested, please refer to it.
 
-After finishing the research, I would like to post the code that I finally organized. Thank you.
+After finishing the research, I would like to post the code that I organized. Thank you.
